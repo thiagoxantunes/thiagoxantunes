@@ -27,5 +27,5 @@ Visualização de dados · CRUD com Supabase
 
 ## Links
 
-- Repositório: https://github.com/atnsx/financeiro
+- Repositório: https://github.com/thiagoxantunes/financeiro
 - Demonstração / capturas de tela: `[adicionar]`

@@ -29,5 +29,5 @@ Produto próprio ponta a ponta · PWA/Android · Gestão financeira
 
 ## Links
 
-- Repositório: https://github.com/atnsx/despachante
+- Repositório: https://github.com/thiagoxantunes/despachante
 - Demonstração / capturas de tela: `[adicionar]`

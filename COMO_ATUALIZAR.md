@@ -10,11 +10,11 @@ git init
 git add .
 git commit -m "Portfólio inicial"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-USUARIO.git
+git remote add origin https://github.com/thiagoxantunes/thiagoxantunes.git
 git push -u origin main
 ```
 
-3. No `README.md`, troque `SEU-USUARIO` e `SEU-EMAIL` pelos seus dados.
+3. No `README.md`, troque o link do LinkedIn (`linkedin.com/in/SEU-USUARIO`) e `SEU-EMAIL` pelos seus dados.
 
 ## Adicionar um projeto novo
 
@@ -42,7 +42,7 @@ git add . && git commit -m "Adiciona projeto: nome-do-projeto" && git push
 
 ## Seus repositórios estão em várias contas
 
-Hoje os projetos estão espalhados em contas diferentes do GitHub (`atnsx`, `atnsxxx`, `thiagoxantunes`, `thiaguinhooxavier-lgtm`, `beatrizfxantunes-bot`). Para o portfólio ficar mais forte:
+Hoje os projetos estão espalhados em contas diferentes do GitHub (`atnsx`, `atnsxxx`, `thiaguinhooxavier-lgtm`, `beatrizfxantunes-bot`); a conta principal é **thiagoxantunes**. Para o portfólio ficar mais forte:
 
 1. Escolha **uma conta principal** (a que vai no LinkedIn);
 2. Transfira os repositórios para ela: **Settings → Danger Zone → Transfer ownership** em cada repositório;

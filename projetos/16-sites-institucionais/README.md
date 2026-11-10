@@ -29,7 +29,7 @@ SEO local · Front-end · Atendimento a clientes
 
 ## Links
 
-- Repositório: https://github.com/atnsx/cinemiracema
-- Repositório: https://github.com/atnsx/nutri
-- Repositório: https://github.com/atnsx/despachante
+- Repositório: https://github.com/thiagoxantunes/cinemiracema
+- Repositório: https://github.com/thiagoxantunes/nutri
+- Repositório: https://github.com/thiagoxantunes/despachante
 - Demonstração / capturas de tela: `[adicionar]`

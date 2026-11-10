@@ -34,7 +34,7 @@ Já entreguei 20 projetos, entre eles:
 
 Stack: Next.js, React, TypeScript, Tailwind, shadcn/ui, Supabase/PostgreSQL, Node.js, Playwright, Vitest, GitHub Actions, Vercel.
 
-Portfólio completo: github.com/SEU-USUARIO
+Portfólio completo: github.com/thiagoxantunes
 ```
 
 ---
@@ -67,7 +67,7 @@ Competências: `Next.js` · `Supabase` · `Playwright` · `Automação de proces
 
 ## 4. Projetos (seção "Projetos" do perfil)
 
-Cole um por vez. Em "URL do projeto", use o link da pasta no seu portfólio: `github.com/SEU-USUARIO/SEU-USUARIO/tree/main/projetos/<pasta>`.
+Cole um por vez. Em "URL do projeto", use o link da pasta no seu portfólio: `github.com/thiagoxantunes/thiagoxantunes/tree/main/projetos/<pasta>`.
 
 ### SolarOps Pro: ERP/SaaS para Energia Solar
 ```
@@ -163,7 +163,7 @@ Link nos comentários 👇 Feedbacks são muito bem-vindos!
 
 🛠️ Tecnologias: [...]
 
-🔗 Detalhes no meu portfólio: github.com/SEU-USUARIO
+🔗 Detalhes no meu portfólio: github.com/thiagoxantunes
 
 #[tag1] #[tag2] #[tag3]
 ```

@@ -28,5 +28,5 @@ E-commerce/vitrine · SEO · Atendimento a cliente real
 
 ## Links
 
-- Repositório: https://github.com/thiaguinhooxavier-lgtm/reidosbarateiros
+- Repositório: https://github.com/thiagoxantunes/reidosbarateiros
 - Demonstração / capturas de tela: `[adicionar]`

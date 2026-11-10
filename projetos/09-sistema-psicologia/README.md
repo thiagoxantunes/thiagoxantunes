@@ -29,5 +29,5 @@ Dados sensíveis/LGPD · IA aplicada · Sistemas para saúde
 
 ## Links
 
-- Repositório: https://github.com/atnsx/psicologia
+- Repositório: https://github.com/thiagoxantunes/psicologia
 - Demonstração / capturas de tela: `[adicionar]`

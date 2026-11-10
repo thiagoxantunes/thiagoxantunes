@@ -27,5 +27,5 @@ UX/animações · Multi-perfil
 
 ## Links
 
-- Repositório: https://github.com/atnsx/agua
+- Repositório: https://github.com/thiagoxantunes/agua
 - Demonstração / capturas de tela: `[adicionar]`

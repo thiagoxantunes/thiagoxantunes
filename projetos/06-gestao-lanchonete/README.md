@@ -29,5 +29,5 @@ Tempo real · Testes automatizados · Server Actions · Gestão de restaurantes
 
 ## Links
 
-- Repositório: https://github.com/atnsxxx/lanchonete
+- Repositório: https://github.com/thiagoxantunes/lanchonete
 - Demonstração / capturas de tela: `[adicionar]`

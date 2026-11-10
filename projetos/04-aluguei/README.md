@@ -29,5 +29,5 @@ Marketplace · Tempo real · Mapas · Segurança com RLS · SEO
 
 ## Links
 
-- Repositório: https://github.com/atnsxxx/aluguei
+- Repositório: https://github.com/thiagoxantunes/aluguei
 - Demonstração / capturas de tela: `[adicionar]`
