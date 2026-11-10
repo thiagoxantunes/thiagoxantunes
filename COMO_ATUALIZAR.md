@@ -14,12 +14,12 @@ git remote add origin https://github.com/thiagoxantunes/thiagoxantunes.git
 git push -u origin main
 ```
 
-3. No `README.md`, troque o link do LinkedIn (`linkedin.com/in/SEU-USUARIO`) e `SEU-EMAIL` pelos seus dados.
+3. No `README.md`, troque o link do LinkedIn (`linkedin.com/in/thiago-antunes-5bb029201`) e `SEU-EMAIL` pelos seus dados.
 
 ## Adicionar um projeto novo
 
 ```bash
-./scripts/novo_projeto.sh nome-do-projeto     # cria projetos/21-nome-do-projeto/README.md
+./scripts/novo_projeto.sh nome-do-projeto     # cria projetos/18-nome-do-projeto/README.md
 # preencha o README (resumo, stack e status ficam nos comentários do topo)
 python3 scripts/atualizar_indice.py           # atualiza a tabela de projetos
 git add . && git commit -m "Adiciona projeto: nome-do-projeto" && git push

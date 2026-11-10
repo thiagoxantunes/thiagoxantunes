@@ -4,7 +4,7 @@
 <!-- stack: Engenharia de Software, UML, Casos de Uso, LaTeX -->
 <!-- status: Em desenvolvimento (TCC) -->
 
-> Trabalho de Conclusão de Curso — Bacharelado em Sistemas de Informação, Instituto Federal Fluminense (Campus Itaperuna).
+> Trabalho de Conclusão de Curso — Bacharelado em Sistemas de Informação, Instituto Federal Fluminense (Campus Itaperuna). Conclusão prevista: dezembro de 2026.
 
 ## O problema
 

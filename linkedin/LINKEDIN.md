@@ -1,169 +1,171 @@
-# Textos prontos para o LinkedIn
+# LinkedIn: textos do perfil
 
-Copie e cole cada bloco no lugar indicado do seu perfil. Ao adicionar um projeto novo ao portfólio, crie também a entrada em **Projetos** e, se quiser, um post (modelo na seção 6).
+Textos prontos para cada seção do perfil. Os limites de caracteres do LinkedIn já foram respeitados.
 
 ---
 
-## 1. Título (Headline), até 220 caracteres
+## 1. Título
 
-**Opção A**
 ```
-Desenvolvedor Full-Stack | Next.js · TypeScript · Supabase | Automação de Processos e IA | Sistemas de Informação (IFF)
-```
-
-**Opção B**
-```
-Transformo planilhas e processos manuais em sistemas web | Full-Stack Next.js + Supabase | Energia Solar | IFF
+Analista de Sistemas e Automação | Desenvolvedor Full-Stack (Next.js · TypeScript · Supabase) | Automação de Processos | Energia Solar
 ```
 
 ---
 
-## 2. Sobre (About)
+## 2. Sobre
 
 ```
-Sou desenvolvedor full-stack e estudante de Sistemas de Informação no Instituto Federal Fluminense (Campus Itaperuna). Gosto de resolver um tipo específico de problema: processos manuais, espalhados em planilhas e sujeitos a erro.
+Analista de Sistemas e Automação na J3 Energia e graduando do Bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense (IFF).
 
-Já entreguei 20 projetos, entre eles:
+Desenvolvo sistemas web de ponta a ponta, da análise de requisitos e modelagem de dados ao deploy, com um objetivo claro: substituir processos manuais e planilhas dispersas por software confiável, seguro e fácil de usar.
 
-☀️ SolarOps Pro: ERP/SaaS para empresa de energia solar, com comercial (propostas com payback e ROI), operação, monitoramento e financeiro completo (DRE, fluxo de caixa, conciliação), além de 10 workflows de CI/CD no GitHub Actions.
-🤖 Robô de monitoramento em Playwright que coleta todo dia a geração de 30+ usinas em 5 portais de fabricantes.
-🏠 Aluguei: marketplace imobiliário com busca no mapa, chat em tempo real e painel de moderação.
-🍔 Sistema de lanchonete com cardápio por QR Code, cozinha em tempo real, estoque e fichas técnicas.
-🎓 Sistema do processo de bolsas escolares do Colégio Cenecista, com OCR e montador de PDF.
-🐂 Gestão pecuária, consultório de psicologia com IA, despachante (com app Android), campeonatos de futevôlei e sites para negócios locais.
+Principais entregas:
+• SolarOps Pro: ERP/SaaS que integra as áreas comercial, operacional e financeira de uma empresa de energia solar, incluindo propostas com análise de payback e ROI, DRE, fluxo de caixa, conciliação bancária e 10 rotinas automatizadas de CI/CD.
+• Robô de monitoramento que coleta diariamente os dados de geração de mais de 30 usinas fotovoltaicas em 5 portais de fabricantes e gera os relatórios de Operação e Manutenção.
+• Aluguei: marketplace imobiliário com busca geográfica, chat em tempo real e painel de moderação.
+• Sistemas de gestão para food service, agronegócio, saúde e serviços de trânsito.
 
-Stack: Next.js, React, TypeScript, Tailwind, shadcn/ui, Supabase/PostgreSQL, Node.js, Playwright, Vitest, GitHub Actions, Vercel.
+Ao todo, são 17 projetos entre plataformas SaaS, marketplaces, sistemas de gestão e automações.
 
-Portfólio completo: github.com/thiagoxantunes
+Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Node.js, Playwright, Vitest, GitHub Actions e Vercel.
+
+Portfólio: github.com/thiagoxantunes
 ```
 
 ---
 
 ## 3. Experiência
 
-### J3 Energia
-**Cargo:** `[seu cargo]` · **Período:** `[mês/ano] – atual`
-```
-• Desenvolvi o SolarOps Pro, ERP/SaaS interno (Next.js + Supabase) que integra comercial, operação, monitoramento de usinas e financeiro (contas, fluxo de caixa, DRE, conciliação, notas fiscais e estoque).
-• Criei um robô em TypeScript + Playwright que coleta diariamente a geração de 30+ usinas fotovoltaicas em 5 portais (Solarman, SAJ, Tsuness, SunWEG e GoodWe) e gera os relatórios de O&M.
-• Automatizei rotinas com GitHub Actions (backup, alertas, envio de faturas por e-mail e coleta de dados) e com Google Apps Script (checklists de vistoria em campo).
-• Automatizei a coleta do ponto dos colaboradores no Bitrix24.
-```
-Competências: `Next.js` · `Supabase` · `Playwright` · `Automação de processos` · `Energia solar fotovoltaica`
+### Analista de Sistemas e Automação · J3 Energia
+**Tipo:** Tempo integral · **Início:** 2º semestre de 2024 · **Atual**
 
-### Thiago Antunes Assessoria de Trânsito (negócio próprio)
-**Cargo:** Fundador · **Período:** `[mês/ano] – atual`
 ```
-• Desenvolvi o sistema de gestão do negócio (clientes, veículos, orçamentos, serviços recorrentes e financeiro), a landing page e o app Android (TWA).
-```
+Responsável pelo desenvolvimento dos sistemas internos e pela automação dos processos operacionais da empresa.
 
-### Desenvolvedor freelancer
-**Período:** `[mês/ano] – atual`
+• Desenvolvi o SolarOps Pro, ERP/SaaS (Next.js + Supabase) que integra as áreas comercial, operacional e financeira: propostas com payback e ROI, ordens de serviço, gestão de clientes e usinas, contas a pagar e receber, fluxo de caixa, DRE, conciliação bancária, notas fiscais e estoque.
+• Automatizei o monitoramento diário de mais de 30 usinas fotovoltaicas com um robô em TypeScript e Playwright, que coleta os dados de 5 portais de fabricantes (Solarman, SAJ, Tsuness, SunWEG e GoodWe) e gera os relatórios de O&M e o fechamento mensal de geração.
+• Implantei 10 rotinas no GitHub Actions: integração contínua, testes, backups, alertas, envio de faturas por e-mail e verificação pós-deploy.
+• Automatizei checklists de vistoria em campo (Google Apps Script) e a coleta do ponto dos colaboradores no Bitrix24.
 ```
-• Sistemas web e sites para clientes da região: consultório de psicologia, colégio, lanchonete, operação pecuária, loja de eletrodomésticos, nutricionista, cinema e ponto de cultura.
+**Competências:** Next.js · Supabase · Playwright · Automação de processos · Energia solar fotovoltaica
+
+### Fundador · Thiago Antunes Assessoria de Trânsito
+**Tipo:** Autônomo · **Início:** `[mês/ano]` · **Atual**
+
+```
+Fundei e gerencio uma assessoria de trânsito (despachante) e desenvolvi toda a sua estrutura digital:
+• Sistema de gestão de clientes, veículos, orçamentos em PDF, serviços recorrentes e financeiro.
+• Landing page otimizada para busca local, com atendimento via WhatsApp.
+• Aplicativo Android publicado como Trusted Web Activity.
+```
+**Competências:** Empreendedorismo · Next.js · Gestão de negócios
+
+### Desenvolvedor Full-Stack · Autônomo
+**Tipo:** Freelance · **Início:** `[mês/ano]` · **Atual**
+
+```
+Desenvolvimento de sistemas web e sites sob medida para empresas e profissionais liberais:
+• Aluguei: marketplace imobiliário com chat em tempo real, busca geográfica e moderação.
+• Gestão Pecuária: sistema que consolida compras de gado, logística, pesagem, fretes e resultados.
+• Gestão de Lanchonete: cardápio digital por QR Code, cozinha em tempo real, estoque e financeiro.
+• Sistema para consultório de psicologia, com prontuário eletrônico, agenda, financeiro e análise assistida por IA.
+• Sites institucionais com SEO local para negócios e projetos culturais.
+```
+**Competências:** Next.js · TypeScript · Supabase · Levantamento de requisitos · Atendimento ao cliente
+
+---
+
+## 4. Formação acadêmica
+
+**Instituto Federal Fluminense (IFF), Campus Itaperuna**
+Bacharelado em Sistemas de Informação · 2020 – dez/2026 (previsto)
+```
+TCC: Sistema de Gestão de Estágios para a Agência de Oportunidades do IFF, com levantamento de requisitos, casos de uso, modelagem UML e documentação em LaTeX.
 ```
 
 ---
 
-## 4. Projetos (seção "Projetos" do perfil)
+## 5. Projetos
 
-Cole um por vez. Em "URL do projeto", use o link da pasta no seu portfólio: `github.com/thiagoxantunes/thiagoxantunes/tree/main/projetos/<pasta>`.
+Em "URL do projeto", use: `github.com/thiagoxantunes/thiagoxantunes/tree/main/projetos/<pasta>`
 
-### SolarOps Pro: ERP/SaaS para Energia Solar
+**SolarOps Pro: ERP/SaaS para Energia Solar** · Associado a: J3 Energia
 ```
-Plataforma SaaS que integra comercial (propostas com payback/ROI, kits, OS), operação (clientes, usinas, alertas, manutenções) e financeiro completo (contas, fluxo de caixa, DRE, conciliação, notas fiscais, estoque). Next.js 15, TypeScript, Supabase, shadcn/ui e 10 workflows de GitHub Actions.
-```
-
-### Robô de Monitoramento de Usinas Solares
-```
-Robô em TypeScript + Playwright que coleta diariamente a geração de 30+ usinas em 5 portais de fabricantes, detecta usinas offline ou com baixa geração e gera os relatórios de O&M, incluindo o fechamento mensal.
+Plataforma SaaS que integra as áreas comercial (propostas com payback e ROI, kits, ordens de serviço), operacional (clientes, usinas, alertas e manutenções) e financeira (contas, fluxo de caixa, DRE, conciliação, notas fiscais e estoque). Next.js 15, TypeScript, Supabase, shadcn/ui e 10 workflows de GitHub Actions.
 ```
 
-### Aluguei: Portal de Aluguel de Imóveis
+**Robô de Monitoramento de Usinas Solares** · Associado a: J3 Energia
 ```
-Marketplace imobiliário com anúncios, busca com filtros e mapa (Leaflet), favoritos, agendamento de visitas, chat em tempo real e painel admin de moderação. Next.js 16, React 19, Supabase (Realtime, Storage, RLS).
-```
-
-### Gestão de Lanchonete
-```
-Cardápio digital com QR Code, aprovação de pedidos, painel da cozinha em tempo real, caixa, estoque, fichas técnicas e financeiro. Testes automatizados com Vitest + PGlite.
+Automação em TypeScript e Playwright que coleta diariamente os dados de geração de mais de 30 usinas fotovoltaicas em 5 portais de fabricantes, identifica falhas e baixa performance e gera os relatórios de O&M e o fechamento mensal.
 ```
 
-### Sistema de Bolsas Escolares: Colégio Cenecista
+**Aluguei: Marketplace Imobiliário**
 ```
-Sistema administrativo para editais, candidatos, ficha socioeconômica, documentos com OCR (Tesseract.js), montador de PDF, declarações, análise e resultado. Clean Architecture com Next.js e Supabase.
-```
-
-### Gestão Pecuária
-```
-Sistema que substitui planilhas paralelas por uma operação única de compra de gado: produtores, fazendas no mapa, pesagem, fretes, ocorrências, custos e resultado, com cálculos precisos (decimal.js).
+Portal de aluguel com anúncios, filtros e busca por mapa, favoritos, agendamento de visitas, chat em tempo real e painel administrativo de moderação. Next.js 16, React 19 e Supabase (Realtime, Storage, RLS).
 ```
 
-### Sistema para Consultório de Psicologia com IA
+**Gestão Pecuária**
 ```
-Agenda, sessões, pacientes, prontuário eletrônico, financeiro, módulo de análise com IA e site profissional integrado.
-```
-
-### Sistema para Despachante (Web + Android)
-```
-Gestão de clientes, veículos, orçamentos em PDF, serviços recorrentes e financeiro, com landing page e app Android via Trusted Web Activity.
+Sistema que consolida em uma operação única a compra de gado, os produtores e fazendas georreferenciados, a pesagem, os fretes, as ocorrências, os custos e os resultados, substituindo planilhas paralelas.
 ```
 
-### FutevôleiCup: Gestão de Campeonatos
+**Gestão de Lanchonete**
 ```
-Organização de campeonatos com chaveamento em dupla eliminação (Winners & Losers Bracket) e placar em tempo real.
-```
-
-### Sistema de Gestão de Estágios: IFF (TCC)
-```
-Plataforma que centraliza o processo de estágio da Agência de Oportunidades do IFF: publicação e moderação de vagas, formalização (TCE/PAE), acompanhamento e declaração final. Requisitos, casos de uso, UML e documentação em LaTeX.
+Cardápio digital por QR Code, aprovação de pedidos, painel de cozinha em tempo real, caixa, estoque, fichas técnicas e financeiro gerencial. Testes automatizados com Vitest e PGlite.
 ```
 
-### Outros
-- **Rei dos Barateiros**: vitrine com painel admin e compra pelo WhatsApp
-- **Finanças Pessoais**: receitas, despesas, metas e conselheiro
-- **Luvik Solar**: orçamentos e faturas em PDF (React + Vite)
-- **Hidratação Inteligente** e **Registros de Enfermagem**
-- **Sites institucionais**: Cara da Rua, Cine Miracema, nutricionista, psicóloga
-- **Simbaco**: simulador de contabilidade (projeto em equipe no IFF)
-- **Analisador de cortes de vídeo com IA**
-
----
-
-## 5. Post de lançamento do portfólio
-
+**Sistema para Consultório de Psicologia**
 ```
-Organizei em um só lugar os 20 projetos que desenvolvi até aqui 🚀
+Agenda, sessões, prontuário eletrônico, financeiro, análise assistida por IA e site profissional integrado.
+```
 
-☀️ Um ERP completo para empresa de energia solar
-🤖 Um robô que monitora 30+ usinas solares todos os dias
-🏠 Um marketplace de aluguel de imóveis com chat em tempo real
-🍔 Um sistema de lanchonete com cardápio por QR Code e cozinha ao vivo
-🎓 O sistema de bolsas de um colégio, com OCR e montagem automática de PDF
-…e mais sistemas para consultório, despachante, pecuária e campeonatos esportivos.
-
-Cada projeto tem o problema, a solução e as tecnologias usadas (Next.js, TypeScript, Supabase, Playwright).
-
-Link nos comentários 👇 Feedbacks são muito bem-vindos!
-
-#DesenvolvimentoWeb #NextJS #TypeScript #Supabase #Automação #EnergiaSolar #SistemasDeInformação
+**Sistema de Gestão de Estágios: IFF (TCC)** · Associado a: Instituto Federal Fluminense
+```
+Plataforma que centraliza o ciclo do estágio na Agência de Oportunidades do IFF: publicação e moderação de vagas, formalização (TCE/PAE), acompanhamento e emissão da declaração final.
 ```
 
 ---
 
-## 6. Modelo de post para cada projeto novo
+## 6. Competências (adicione as 10 principais)
+
+Next.js · TypeScript · React · Supabase · PostgreSQL · Node.js · Playwright · Automação de processos · Análise de requisitos · GitHub Actions
+
+---
+
+## 7. Publicação de lançamento do portfólio
 
 ```
-[Gancho: o problema em 1 linha]
+Reuni em um único portfólio os 17 projetos que desenvolvi nos últimos anos.
 
-[O que você construiu em 2 a 3 linhas]
+Entre eles:
+• Um ERP/SaaS que integra as áreas comercial, operacional e financeira de uma empresa de energia solar
+• Um robô que monitora diariamente mais de 30 usinas fotovoltaicas em 5 plataformas diferentes
+• Um marketplace imobiliário com chat em tempo real e busca por mapa
+• Sistemas de gestão para food service, agronegócio, saúde e serviços
 
-✅ [resultado 1 com número]
-✅ [resultado 2]
+Cada projeto está documentado com contexto, problema, solução e tecnologias utilizadas (Next.js, TypeScript, Supabase, Playwright).
 
-🛠️ Tecnologias: [...]
+O link está nos comentários. Feedbacks são bem-vindos.
 
-🔗 Detalhes no meu portfólio: github.com/thiagoxantunes
+#DesenvolvimentoDeSoftware #NextJS #TypeScript #Automação #EnergiaSolar
+```
 
-#[tag1] #[tag2] #[tag3]
+---
+
+## 8. Modelo para novos projetos
+
+```
+[Contexto: o problema em uma frase]
+
+[Solução: o que foi desenvolvido, em duas ou três frases]
+
+Resultados:
+• [resultado mensurável]
+• [resultado mensurável]
+
+Tecnologias: [...]
+
+Detalhes: github.com/thiagoxantunes
+
+#[tag] #[tag] #[tag]
 ```
