@@ -16,7 +16,7 @@
 
 Analista de Sistemas e Automação na **J3 Energia** e graduando do **Bacharelado em Sistemas de Informação** pelo Instituto Federal Fluminense (IFF), Campus Itaperuna, com conclusão prevista para dezembro de 2026. Desenvolvo sistemas web de ponta a ponta, da modelagem de dados ao deploy, com foco em **substituir processos manuais e planilhas por software confiável**.
 
-Já entreguei **17 projetos** em produção ou em desenvolvimento ativo: plataformas SaaS, marketplaces, sistemas de gestão e automações para empresas e profissionais dos setores de energia solar, imobiliário, saúde, alimentação e agronegócio.
+Já entreguei **16 projetos** em produção ou em desenvolvimento ativo: plataformas SaaS, marketplaces, sistemas de gestão e automações para empresas e profissionais dos setores de energia solar, imobiliário, saúde, alimentação e agronegócio.
 
 **Áreas de atuação**
 
@@ -60,12 +60,11 @@ Já entreguei **17 projetos** em produção ou em desenvolvimento ativo: platafo
 | [**FutevôleiCup — Gestão de Campeonatos**](projetos/09-futevolei-cup/) | Sistema para organizar campeonatos de futevôlei com chaveamento em dupla eliminação e atualização em tempo real. | Next.js 14, React 18, TypeScript, Tailwind, Supabase (Auth, Realtime) | Em desenvolvimento |
 | [**Rei dos Barateiros — Vitrine Digital com Painel Admin**](projetos/10-rei-dos-barateiros/) | Catálogo online de eletrodomésticos com painel administrativo e compra direta pelo WhatsApp. | Next.js, React, Supabase, Embla Carousel | Concluído |
 | [**Finanças Pessoais com Conselheiro**](projetos/11-financas-pessoais/) | Controle de receitas, despesas e metas com relatórios e um conselheiro financeiro. | Next.js, TypeScript, Supabase, Recharts | Concluído |
-| [**Luvik Solar — Sistema de Gestão Comercial**](projetos/12-luvik-solar/) | SPA para gestão de clientes, produtos, orçamentos e faturas de uma empresa solar, com exportação em PDF. | React, TypeScript, Vite, Zustand, Recharts, jsPDF | Concluído |
-| [**Hidratação Inteligente**](projetos/13-hidratacao-inteligente/) | App para acompanhar o consumo de água por perfil, com metas diárias e histórico. | Next.js, TypeScript, Supabase, Framer Motion, Recharts, Zustand | Concluído |
-| [**Registros de Enfermagem**](projetos/14-registros-enfermagem/) | Sistema para profissionais de enfermagem registrarem atendimentos, consultarem histórico e gerarem relatórios em PDF. | Next.js, TypeScript, Supabase, jsPDF, Recharts | Concluído |
-| [**Sites Institucionais e Landing Pages**](projetos/15-sites-institucionais/) | Sites rápidos e otimizados para SEO para negócios e projetos culturais da região de Miracema/RJ. | HTML, CSS, JavaScript, Supabase, Vercel | No ar |
-| [**Automações Internas — J3 Energia**](projetos/16-automacoes-j3/) | Scripts e painéis que automatizam checklists de campo, indicadores financeiros e controle de ponto. | Google Apps Script, JavaScript, HTML, Bitrix24 | Em uso |
-| [**Documentação Técnica e Acadêmica em LaTeX**](projetos/17-documentacao-latex/) | Conversão de especificações em Markdown para LaTeX no padrão ABNT, com tabelas de casos de uso e referências BibTeX. | LaTeX, BibTeX, Markdown, ABNT | Concluído |
+| [**Hidratação Inteligente**](projetos/12-hidratacao-inteligente/) | App para acompanhar o consumo de água por perfil, com metas diárias e histórico. | Next.js, TypeScript, Supabase, Framer Motion, Recharts, Zustand | Concluído |
+| [**Registros de Enfermagem**](projetos/13-registros-enfermagem/) | Sistema para profissionais de enfermagem registrarem atendimentos, consultarem histórico e gerarem relatórios em PDF. | Next.js, TypeScript, Supabase, jsPDF, Recharts | Concluído |
+| [**Sites Institucionais e Landing Pages**](projetos/14-sites-institucionais/) | Sites rápidos e otimizados para SEO para negócios e projetos culturais da região de Miracema/RJ. | HTML, CSS, JavaScript, Supabase, Vercel | No ar |
+| [**Automações Internas — J3 Energia**](projetos/15-automacoes-j3/) | Scripts e painéis que automatizam checklists de campo, indicadores financeiros e controle de ponto. | Google Apps Script, JavaScript, HTML, Bitrix24 | Em uso |
+| [**Documentação Técnica e Acadêmica em LaTeX**](projetos/16-documentacao-latex/) | Conversão de especificações em Markdown para LaTeX no padrão ABNT, com tabelas de casos de uso e referências BibTeX. | LaTeX, BibTeX, Markdown, ABNT | Concluído |
 <!-- FIM-PROJETOS -->
 
 Cada projeto possui uma página própria com contexto, problema, solução, tecnologias e competências aplicadas.

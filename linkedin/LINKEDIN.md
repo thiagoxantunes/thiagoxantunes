@@ -25,7 +25,7 @@ Principais entregas:
 • Aluguei: marketplace imobiliário com busca geográfica, chat em tempo real e painel de moderação.
 • Sistemas de gestão para food service, agronegócio, saúde e serviços de trânsito.
 
-Ao todo, são 17 projetos entre plataformas SaaS, marketplaces, sistemas de gestão e automações.
+Ao todo, são 16 projetos entre plataformas SaaS, marketplaces, sistemas de gestão e automações.
 
 Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Node.js, Playwright, Vitest, GitHub Actions e Vercel.
 
@@ -135,7 +135,7 @@ Next.js · TypeScript · React · Supabase · PostgreSQL · Node.js · Playwrigh
 ## 7. Publicação de lançamento do portfólio
 
 ```
-Reuni em um único portfólio os 17 projetos que desenvolvi nos últimos anos.
+Reuni em um único portfólio os 16 projetos que desenvolvi nos últimos anos.
 
 Entre eles:
 • Um ERP/SaaS que integra as áreas comercial, operacional e financeira de uma empresa de energia solar

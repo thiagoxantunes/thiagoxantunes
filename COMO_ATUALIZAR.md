@@ -19,7 +19,7 @@ git push -u origin main
 ## Adicionar um projeto novo
 
 ```bash
-./scripts/novo_projeto.sh nome-do-projeto     # cria projetos/18-nome-do-projeto/README.md
+./scripts/novo_projeto.sh nome-do-projeto     # cria projetos/17-nome-do-projeto/README.md
 # preencha o README (resumo, stack e status ficam nos comentários do topo)
 python3 scripts/atualizar_indice.py           # atualiza a tabela de projetos
 git add . && git commit -m "Adiciona projeto: nome-do-projeto" && git push
