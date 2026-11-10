@@ -2,3 +2,9 @@
 *.keystore
 node_modules/
 .DS_Store
+
+# Arquivos de uso interno (ficam só no computador)
+COMO_ATUALIZAR.md
+scripts/
+templates/
+linkedin/

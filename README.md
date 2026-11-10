@@ -46,7 +46,7 @@ Já entreguei **16 projetos** em produção ou em desenvolvimento ativo: platafo
 
 ## Todos os projetos
 
-<!-- INICIO-PROJETOS (gerado por scripts/atualizar_indice.py — não edite à mão) -->
+<!-- INICIO-PROJETOS -->
 | Projeto | Descrição | Tecnologias | Status |
 |---|---|---|---|
 | [**SolarOps Pro — ERP/SaaS para Empresas de Energia Solar**](projetos/01-solarops-pro/) | Plataforma SaaS que integra comercial, operação, monitoramento e financeiro de uma empresa de energia solar. | Next.js 15, TypeScript, Supabase, ShadCN UI, Zustand, TanStack Query, GitHub Actions | Em produção |
@@ -79,4 +79,4 @@ Cada projeto possui uma página própria com contexto, problema, solução, tecn
 
 ---
 
-<p align="center"><sub>Portfólio mantido e atualizado continuamente.</sub></p>
+<p align="center"><sub>Portfólio atualizado continuamente.</sub></p>
